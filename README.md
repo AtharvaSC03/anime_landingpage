@@ -14,6 +14,7 @@ Enjoy smooth scroll-triggered animations throughout the page, powered by GSAP (G
 #Nav Bar: Transitions to a sleek black background with increased height for a prominent presence.
 #Main Section: Shifts to a darker background color, providing a dramatic shift as you scroll.
 #About Us: Features engaging animations for images and text, revealing them with smooth movements and fading effects.
+
 #4. Feature Sections
 Anime Verse: Dive into the heart of anime with an introduction to its unique art style and storytelling. This section welcomes you with a bold heading and a detailed description of anime’s vibrant nature.
 #Scroller: A continuous scrolling marquee highlights the main categories of our site, ensuring easy access to Anime, Merchandise, Manga, and Reviews.
@@ -22,6 +23,7 @@ Anime Verse: Dive into the heart of anime with an introduction to its unique art
 Green Div: Showcases diverse themes and genres in anime, with eye-catching images and text that celebrate the breadth of anime content.
 #Page 3: Provides intriguing facts about anime’s global reach and its evolution, accompanied by animated GIFs for added visual appeal.
 #Page 4: Encourages exploration of different anime genres and interests, featuring a trio of elements focused on Manga, Weeb culture, and Merchandise.
+
 #5. Engaging Footer
 Our footer consolidates essential links and information, including contact details, additional categories, and a call-to-action for our limited-stock offerings.
 
